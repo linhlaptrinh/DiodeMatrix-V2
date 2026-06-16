@@ -298,11 +298,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you use DiodeMatrix in your research, please cite:
 
 ```bibtex
-@software{diodematrix2024,
+@software{diodematrix2026,
   title={DiodeMatrix: Structured Optical Tactile Sensing for Robotic Manipulation},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/DiodeMatrix}
+  author={The Linh Do},
+  year={2026},
+  url={https://github.com/linhlaptrinh/DiodeMatrix}
 }
 ```
 
@@ -310,7 +310,7 @@ If you use DiodeMatrix in your research, please cite:
 
 For issues, questions, or suggestions:
 - **GitHub Issues:** [Open an issue](https://github.com/yourusername/DiodeMatrix/issues)
-- **Email:** your.email@example.com
+- **Email:** thelinh2911@gmail.com
 
 ## Acknowledgments
 
