@@ -61,7 +61,7 @@ scipy>=1.5.0
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/DiodeMatrix.git
+git clone https://github.com/linhlaptrinh/DiodeMatrix.git
 cd DiodeMatrix
 ```
 
