@@ -88,6 +88,11 @@ pip install numpy pandas scipy
 
 ### Robot Connection
 
+1) How to call the UR simulation docker
+   
+sudo docker run --rm -it -p 5900:5900 -p 6080:6080 universalrobots/ursim_e-series -p 29999:29999 -p 30002:30002 -p 30003:30003
+
+
 Edit `pose_utils.py` to configure your robot parameters:
 
 ```python
