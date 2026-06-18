@@ -9,7 +9,7 @@ def generate_diode_matrix():
     y_corner = -0.528
     z_fixed = 0.2
     
-    step = 0.01 #1cm sau nay chuyen thanh 2.5mm    
+    step = 0.025 #1cm sau nay chuyen thanh 2.5mm    
     
     offsets = [0, 1, 2, 3]
     
