@@ -1,6 +1,6 @@
 # DiodeMatrix
 
-High-precision tactile perception system leveraging structured photodiode arrays for intelligent robotic touch sensing and object interaction.
+High-precision tactile perception system leveraging structured photodetector arrays for intelligent robotic touch sensing and object interaction.
 
 ## Overview
 
